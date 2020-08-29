@@ -1,0 +1,127 @@
+{
+    "document": "test.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US 13.4 billion, which vastly increased Amazon's presence as a brickand-mortar retailer."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "Apple Inc.",
+                "3": "chairman; chief executive officer ( CEO ); co-founder",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "Pixar",
+                "3": "chairman",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "NeXT",
+                "3": "founder; chairman; CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "The Walt Disney Company's",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U. S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Dallas county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U. S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Collin county"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U. S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U. S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "U. S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U. S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "U. S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Indian city of Jaipur is famous for silk."
+            ],
+            "arguments": {
+                "1": "Jaipur",
+                "2": "India"
+            }
+        }
+    ]
+}

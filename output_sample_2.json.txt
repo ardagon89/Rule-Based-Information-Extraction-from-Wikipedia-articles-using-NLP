@@ -1,0 +1,45 @@
+{
+	"document": "AppleInc.txt",
+    "extraction": [
+		{
+			"template": "WORK",
+			"sentences": ["Steven Paul Jobs (; February 24, 1955 – October 5, 2011) was an American business magnate and investor.", "He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT.In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."],
+			"arguments": {
+				"1": "Steven Paul Jobs",
+				"2": "Apple Inc.",
+				"3": "chairman ; chief executive officer (CEO); co-founder",
+				"4": ""
+			}
+		},
+		{
+			"template": "WORK",
+			"sentences": ["Steven Paul Jobs (; February 24, 1955 – October 5, 2011) was an American business magnate and investor.", "He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT.In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."],
+			"arguments": {
+				"1": "Steven Paul Jobs",
+				"2": "Pixar",
+				"3": "chairman",
+				"4": ""
+			}
+		},
+		{
+			"template": "WORK",
+			"sentences": ["Steven Paul Jobs (; February 24, 1955 – October 5, 2011) was an American business magnate and investor.", "He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT.In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."],
+			"arguments": {
+				"1": "Steven Paul Jobs",
+				"2": "The Walt Disney Company",
+				"3": "board member",
+				"4": ""
+			}
+		},
+		{
+			"template": "WORK",
+			"sentences": ["Steven Paul Jobs (; February 24, 1955 – October 5, 2011) was an American business magnate and investor.", "He was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following its acquisition of Pixar; and the founder, chairman, and CEO of NeXT.In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."],
+			"arguments": {
+				"1": "Steven Paul Jobs",
+				"2": "NeXT",
+				"3": "founder; chairman ; CEO",
+				"4": ""
+			}
+		}
+	]
+}

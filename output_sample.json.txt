@@ -1,0 +1,24 @@
+{
+	"document": "Amazon_com.txt",
+    "extraction": [
+		{
+			"template": "BUY",
+			"sentences": ["In 2017, Amazon acquired Whole Foods Market for US$13.4 billion, which vastly increased Amazon's presence as a brick-and-mortar retailer."],
+			"arguments": {
+				"1": "Amazon",
+				"2": "Whole Foods Market",
+				"3": "US$13.7 billion",
+				"4": "",
+				"5": ""
+			}
+		},
+		{
+			"template": "PART",
+			"sentences": [ "Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994."],
+			"arguments": {
+				"1": "Bellevue",
+				"2": "Washington"
+			}
+		}
+	]
+}

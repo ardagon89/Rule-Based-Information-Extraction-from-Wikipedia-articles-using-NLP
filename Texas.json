@@ -1,0 +1,165 @@
+{
+    "document": "Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas (, locally ; Spanish: Texas or Tejas Spanish pronunciation: [ texas] (listen)) is the second largest state in the United States by both area and population."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Geographically located in the South Central region of the country, Texas shares borders with the U.S. states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo Le n, and Tamaulipas to the southwest, while the Gulf of New Mexico is to the southeast."
+            ],
+            "arguments": {
+                "1": "Louisiana",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second-most populous in the state and seventh largest in the U.S. Dallas-Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The name Texas, based on the Caddo word t ysha ("
+            ],
+            "arguments": {
+                "1": "Houston County",
+                "2": "East Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's most notable Unionist was the state Governor, Sam Houston."
+            ],
+            "arguments": {
+                "1": "Unionist",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Not wanting to aggravate the situation, Sam Houston refused two offers from President Lincoln for Union troops to keep Texas's most notable Unionist in office."
+            ],
+            "arguments": {
+                "1": "Unionist",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The final battle of the Civil War was fought near Brownsville, Texas at Palmito Ranch with a Confederate victory."
+            ],
+            "arguments": {
+                "1": "Brownsville",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On January 10, 1901, the first major oil well in Texas, Spindletop, was found south of Beaumont."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "Spindletop"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other fields were later discovered nearby in Texas, West Texas, and under the Gulf of Mexico."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "West Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Japan's Kant region per capita personal income in 2009 was 36,484, ranking 29th in Japan."
+            ],
+            "arguments": {
+                "1": "Kant region",
+                "2": "Japan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Roscoe Wind Farm in Roscoe, Texas, is one of the world's largest wind farms with a 781.5 megawatt (MW) capacity."
+            ],
+            "arguments": {
+                "1": "Roscoe",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's Rio Grande Valley has seen significant migration from across the U.S.-Mexico border."
+            ],
+            "arguments": {
+                "1": "Rio Grande Valley",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "While Houston is the largest city in Texas and the fourth largest city in the United States, the Dallas-Fort Worth metropolitan area is larger than Houston."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other communities with a significantly growing Asian American population is in Austin, Corpus Christi, San Antonio, and the Sharyland area next McAllen, Texas."
+            ],
+            "arguments": {
+                "1": "McAllen",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "\""
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Texas's second-largest air facility is Houston's George Bush Intercontinental Airport (IAH)."
+            ],
+            "arguments": {
+                "1": "George Bush Intercontinental Airport",
+                "2": "Houston"
+            }
+        }
+    ]
+}

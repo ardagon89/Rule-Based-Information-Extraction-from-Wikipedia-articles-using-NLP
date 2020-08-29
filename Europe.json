@@ -1,0 +1,315 @@
+{
+    "document": "Europe.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "Iberia",
+                "2": "the British Isles"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "Iberia",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "Iberia",
+                "2": "Christianised western Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "Iberia",
+                "2": "the Alpine regions and northern and central Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "the British Isles",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "the British Isles",
+                "2": "Christianised western Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "the British Isles",
+                "2": "the Alpine regions and northern and central Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "France",
+                "2": "Christianised western Germany"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "France",
+                "2": "the Alpine regions and northern and central Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A cultural definition of Europe as the lands of Latin Christendom coalesced in the 8th century, signifying the new cultural condominium created through the confluence of Germanic traditions and Christian-Latin culture, defined partly in contrast with Byzantium and Islam, and limited to northern Iberia, the British Isles, France, Christianised western Germany, the Alpine regions and northern and central Italy."
+            ],
+            "arguments": {
+                "1": "Christianised western Germany",
+                "2": "the Alpine regions and northern and central Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other hominid remains, dating back roughly 1 million years, have been discovered in Atapuerca, Spain."
+            ],
+            "arguments": {
+                "1": "Atapuerca",
+                "2": "Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Constantinople was the largest and wealthiest city in Europe from the 9th to the 12th centuries, with a population of approximately 400,000."
+            ],
+            "arguments": {
+                "1": "Constantinople",
+                "2": "Europe"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "However, Churchill, Manitoba, Canada, is on roughly the same latitude and has an average temperature of 6.5 C (20.3 F), giving an average temperature of 6.5 C (20.3 F) a nearly subarctic climate."
+            ],
+            "arguments": {
+                "1": "Manitoba",
+                "2": "Canada"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Others are oriented south-north (Scandinavian Mountains, Dinarides, Carpathians, Apennines) and because the rain falls primarily on the side of mountains that is oriented towards the sea, forests grow well on this side, while on the other side, the conditions are much less favourable."
+            ],
+            "arguments": {
+                "1": "Dinarides",
+                "2": "Carpathians"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "the United Kingdom"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "Germany",
+                "2": "and Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "the United Kingdom",
+                "2": "France"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "the United Kingdom",
+                "2": "Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "the United Kingdom",
+                "2": "and Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "France",
+                "2": "Italy"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "France",
+                "2": "and Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By the millennium change, the EU dominated the economy of Europe comprising the five largest European economies of the time namely Germany, the United Kingdom, France, Italy, and Spain."
+            ],
+            "arguments": {
+                "1": "Italy",
+                "2": "and Spain"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "Madrid"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "Barcelona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Paris",
+                "2": "Berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Madrid",
+                "2": "Barcelona"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Madrid",
+                "2": "Berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "When considering the commuter belts or metropolitan areas, within the EU (for which comparable data is available)"
+            ],
+            "arguments": {
+                "1": "Barcelona",
+                "2": "Berlin"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other religions, including Judaism, Hinduism, and Buddhism are minority religions (though Tibetan Buddhism is the majority religion of Russia's Republic of Kalmykia)."
+            ],
+            "arguments": {
+                "1": "Republic of Kalmykia",
+                "2": "Russia"
+            }
+        }
+    ]
+}

@@ -1,0 +1,392 @@
+
+(base) C:\Users\shari>python --version
+Python 3.7.3
+
+(base) C:\Users\shari>spacy --version
+'spacy' is not recognized as an internal or external command,
+operable program or batch file.
+
+(base) C:\Users\shari>python -m spacy info
+
+============================== Info about spaCy ==============================
+
+spaCy version    2.2.4
+Location         C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\spacy
+Platform         Windows-10-10.0.18362-SP0
+Python version   3.7.3
+Models
+
+
+(base) C:\Users\shari>pip install -U spacy==2.1.0
+Collecting spacy==2.1.0
+  Downloading https://files.pythonhosted.org/packages/1e/de/09c45b3921d4b63daf6e7feab3e6571217835325c199a2e840267a83a766/spacy-2.1.0-cp37-cp37m-win_amd64.whl (26.9MB)
+     |████████████████████████████████| 26.9MB 726kB/s
+Requirement already satisfied, skipping upgrade: murmurhash<1.1.0,>=0.28.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (1.0.2)
+Collecting thinc<7.1.0,>=7.0.2 (from spacy==2.1.0)
+  Downloading https://files.pythonhosted.org/packages/20/16/96f6c0a4301f392077c67831639e8e614e2adf45185ee6a1c6a3f0ab2299/thinc-7.0.8-cp37-cp37m-win_amd64.whl (1.9MB)
+     |████████████████████████████████| 1.9MB 3.2MB/s
+Collecting preshed<2.1.0,>=2.0.1 (from spacy==2.1.0)
+  Downloading https://files.pythonhosted.org/packages/b8/e3/0ec374ed2b5046073e735b6e349d759e795fc2e3c83306fbef88efa01921/preshed-2.0.1-cp37-cp37m-win_amd64.whl (73kB)
+     |████████████████████████████████| 81kB 2.6MB/s
+Requirement already satisfied, skipping upgrade: cymem<2.1.0,>=2.0.2 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (2.0.3)
+Collecting blis<0.3.0,>=0.2.2 (from spacy==2.1.0)
+  Downloading https://files.pythonhosted.org/packages/5e/94/9da0eff97411b3e85933e8b955d2ffd353f97b65372a2861e57d59d9ad5d/blis-0.2.4-cp37-cp37m-win_amd64.whl (3.1MB)
+     |████████████████████████████████| 3.1MB 6.4MB/s
+Collecting jsonschema<3.0.0,>=2.6.0 (from spacy==2.1.0)
+  Downloading https://files.pythonhosted.org/packages/77/de/47e35a97b2b05c2fadbec67d44cfcdcd09b8086951b331d82de90d2912da/jsonschema-2.6.0-py2.py3-none-any.whl
+Collecting plac<1.0.0,>=0.9.6 (from spacy==2.1.0)
+  Downloading https://files.pythonhosted.org/packages/9e/9b/62c60d2f5bc135d2aa1d8c8a86aaf84edb719a59c7f11a4316259e61a298/plac-0.9.6-py2.py3-none-any.whl
+Requirement already satisfied, skipping upgrade: numpy>=1.15.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (1.16.4)
+Requirement already satisfied, skipping upgrade: wasabi<1.1.0,>=0.0.12 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy==2.1.0) (0.6.0)
+Requirement already satisfied, skipping upgrade: srsly<1.1.0,>=0.0.5 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy==2.1.0) (1.0.2)
+Requirement already satisfied, skipping upgrade: requests<3.0.0,>=2.13.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (2.22.0)
+Requirement already satisfied, skipping upgrade: tqdm<5.0.0,>=4.10.0 in c:\programdata\anaconda3\lib\site-packages (from thinc<7.1.0,>=7.0.2->spacy==2.1.0) (4.45.0)
+Requirement already satisfied, skipping upgrade: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (1.24.2)
+Requirement already satisfied, skipping upgrade: certifi>=2017.4.17 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (2019.6.16)
+Requirement already satisfied, skipping upgrade: idna<2.9,>=2.5 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (2.8)
+Requirement already satisfied, skipping upgrade: chardet<3.1.0,>=3.0.2 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (3.0.4)
+ERROR: jupyterlab-server 1.0.0 has requirement jsonschema>=3.0.1, but you'll have jsonschema 2.6.0 which is incompatible.
+ERROR: en-core-web-sm 2.2.5 has requirement spacy>=2.2.2, but you'll have spacy 2.1.0 which is incompatible.
+Installing collected packages: preshed, plac, blis, thinc, jsonschema, spacy
+  Found existing installation: preshed 3.0.2
+    Uninstalling preshed-3.0.2:
+ERROR: Could not install packages due to an EnvironmentError: [WinError 5] Access is denied: 'c:\\programdata\\anaconda3\\lib\\site-packages\\preshed-3.0.2.dist-info\\INSTALLER'
+Consider using the `--user` option or check the permissions.
+
+
+(base) C:\Users\shari>pip install -U --user spacy==2.1.0
+Collecting spacy==2.1.0
+  Using cached https://files.pythonhosted.org/packages/1e/de/09c45b3921d4b63daf6e7feab3e6571217835325c199a2e840267a83a766/spacy-2.1.0-cp37-cp37m-win_amd64.whl
+Collecting thinc<7.1.0,>=7.0.2 (from spacy==2.1.0)
+  Using cached https://files.pythonhosted.org/packages/20/16/96f6c0a4301f392077c67831639e8e614e2adf45185ee6a1c6a3f0ab2299/thinc-7.0.8-cp37-cp37m-win_amd64.whl
+Requirement already satisfied, skipping upgrade: cymem<2.1.0,>=2.0.2 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (2.0.3)
+Collecting blis<0.3.0,>=0.2.2 (from spacy==2.1.0)
+  Using cached https://files.pythonhosted.org/packages/5e/94/9da0eff97411b3e85933e8b955d2ffd353f97b65372a2861e57d59d9ad5d/blis-0.2.4-cp37-cp37m-win_amd64.whl
+Collecting jsonschema<3.0.0,>=2.6.0 (from spacy==2.1.0)
+  Using cached https://files.pythonhosted.org/packages/77/de/47e35a97b2b05c2fadbec67d44cfcdcd09b8086951b331d82de90d2912da/jsonschema-2.6.0-py2.py3-none-any.whl
+Requirement already satisfied, skipping upgrade: wasabi<1.1.0,>=0.0.12 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy==2.1.0) (0.6.0)
+Collecting preshed<2.1.0,>=2.0.1 (from spacy==2.1.0)
+  Using cached https://files.pythonhosted.org/packages/b8/e3/0ec374ed2b5046073e735b6e349d759e795fc2e3c83306fbef88efa01921/preshed-2.0.1-cp37-cp37m-win_amd64.whl
+Requirement already satisfied, skipping upgrade: requests<3.0.0,>=2.13.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (2.22.0)
+Requirement already satisfied, skipping upgrade: murmurhash<1.1.0,>=0.28.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (1.0.2)
+Requirement already satisfied, skipping upgrade: srsly<1.1.0,>=0.0.5 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy==2.1.0) (1.0.2)
+Collecting plac<1.0.0,>=0.9.6 (from spacy==2.1.0)
+  Using cached https://files.pythonhosted.org/packages/9e/9b/62c60d2f5bc135d2aa1d8c8a86aaf84edb719a59c7f11a4316259e61a298/plac-0.9.6-py2.py3-none-any.whl
+Requirement already satisfied, skipping upgrade: numpy>=1.15.0 in c:\programdata\anaconda3\lib\site-packages (from spacy==2.1.0) (1.16.4)
+Requirement already satisfied, skipping upgrade: tqdm<5.0.0,>=4.10.0 in c:\programdata\anaconda3\lib\site-packages (from thinc<7.1.0,>=7.0.2->spacy==2.1.0) (4.45.0)
+Requirement already satisfied, skipping upgrade: certifi>=2017.4.17 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (2019.6.16)
+Requirement already satisfied, skipping upgrade: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (1.24.2)
+Requirement already satisfied, skipping upgrade: chardet<3.1.0,>=3.0.2 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (3.0.4)
+Requirement already satisfied, skipping upgrade: idna<2.9,>=2.5 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy==2.1.0) (2.8)
+ERROR: jupyterlab-server 1.0.0 has requirement jsonschema>=3.0.1, but you'll have jsonschema 2.6.0 which is incompatible.
+ERROR: en-core-web-sm 2.2.5 has requirement spacy>=2.2.2, but you'll have spacy 2.1.0 which is incompatible.
+Installing collected packages: blis, preshed, plac, thinc, jsonschema, spacy
+  Found existing installation: blis 0.4.1
+    Uninstalling blis-0.4.1:
+      Successfully uninstalled blis-0.4.1
+  Found existing installation: thinc 7.4.0
+    Uninstalling thinc-7.4.0:
+      Successfully uninstalled thinc-7.4.0
+  WARNING: The script jsonschema.exe is installed in 'C:\Users\shari\AppData\Roaming\Python\Python37\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  Found existing installation: spacy 2.2.4
+    Uninstalling spacy-2.2.4:
+      Successfully uninstalled spacy-2.2.4
+Successfully installed blis-0.2.4 jsonschema-2.6.0 plac-0.9.6 preshed-2.0.1 spacy-2.1.0 thinc-7.0.8
+
+(base) C:\Users\shari>python -m spacy info
+
+============================== Info about spaCy ==============================
+
+spaCy version    2.1.0
+Location         C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\spacy
+Platform         Windows-10-10.0.18362-SP0
+Python version   3.7.3
+Models
+
+
+(base) C:\Users\shari>python -m jsonschema info
+Traceback (most recent call last):
+  File "C:\ProgramData\Anaconda3\lib\runpy.py", line 193, in _run_module_as_main
+    "__main__", mod_spec)
+  File "C:\ProgramData\Anaconda3\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\jsonschema\__main__.py", line 2, in <module>
+    main()
+  File "C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\jsonschema\cli.py", line 67, in main
+    sys.exit(run(arguments=parse_args(args=args)))
+  File "C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\jsonschema\cli.py", line 60, in parse_args
+    arguments = vars(parser.parse_args(args=args or ["--help"]))
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 1749, in parse_args
+    args, argv = self.parse_known_args(args, namespace)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 1781, in parse_known_args
+    namespace, args = self._parse_known_args(args, namespace)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 1990, in _parse_known_args
+    stop_index = consume_positionals(start_index)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 1946, in consume_positionals
+    take_action(action, args)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 1839, in take_action
+    argument_values = self._get_values(action, argument_strings)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 2369, in _get_values
+    value = self._get_value(action, arg_string)
+  File "C:\ProgramData\Anaconda3\lib\argparse.py", line 2402, in _get_value
+    result = type_func(arg_string)
+  File "C:\Users\shari\AppData\Roaming\Python\Python37\site-packages\jsonschema\cli.py", line 17, in _json_file
+    with open(path) as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'info'
+
+(base) C:\Users\shari>python -m jsonschema
+usage: __main__.py [-h] [-i INSTANCES] [-F ERROR_FORMAT] [-V VALIDATOR] schema
+
+JSON Schema Validation CLI
+
+positional arguments:
+  schema                the JSON Schema to validate with (i.e.
+                        filename.schema)
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INSTANCES, --instance INSTANCES
+                        a path to a JSON instance (i.e. filename.json)to
+                        validate (may be specified multiple times)
+  -F ERROR_FORMAT, --error-format ERROR_FORMAT
+                        the format to use for each error output message,
+                        specified in a form suitable for passing to
+                        str.format, which will be called with 'error' for each
+                        error
+  -V VALIDATOR, --validator VALIDATOR
+                        the fully qualified object name of a validator to use,
+                        or, for validators that are registered with
+                        jsonschema, simply the name of the class.
+
+(base) C:\Users\shari>python -m spacy download en_core_web_sm
+Collecting en_core_web_sm==2.1.0 from https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz#egg=en_core_web_sm==2.1.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.1.0/en_core_web_sm-2.1.0.tar.gz (11.1MB)
+     |████████████████████████████████| 11.1MB 656kB/s
+Building wheels for collected packages: en-core-web-sm
+  Building wheel for en-core-web-sm (setup.py) ... done
+  Stored in directory: C:\Users\shari\AppData\Local\Temp\pip-ephem-wheel-cache-jdaxui2g\wheels\39\ea\3b\507f7df78be8631a7a3d7090962194cf55bc1158572c0be77f
+Successfully built en-core-web-sm
+Installing collected packages: en-core-web-sm
+  Found existing installation: en-core-web-sm 2.2.5
+    Uninstalling en-core-web-sm-2.2.5:
+      Successfully uninstalled en-core-web-sm-2.2.5
+Successfully installed en-core-web-sm-2.1.0
+✔ Download and installation successful
+You can now load the model via spacy.load('en_core_web_sm')
+
+(base) C:\Users\shari>python -m neuralcoref info
+C:\ProgramData\Anaconda3\python.exe: No module named neuralcoref
+
+(base) C:\Users\shari>pip install neuralcoref
+Collecting neuralcoref
+  Downloading https://files.pythonhosted.org/packages/51/30/513e85d805a6d652868f74ce5579a00490491944745c705067a041bef8f1/neuralcoref-4.0-cp37-cp37m-win_amd64.whl (227kB)
+     |████████████████████████████████| 235kB 1.3MB/s
+Requirement already satisfied: spacy>=2.1.0 in c:\users\shari\appdata\roaming\python\python37\site-packages (from neuralcoref) (2.1.0)
+Collecting boto3 (from neuralcoref)
+  Downloading https://files.pythonhosted.org/packages/c8/1e/587abcd94e8f6dbd42df730f40eb5f7313b6fd7255f5ef5a0db53d116999/boto3-1.13.1-py2.py3-none-any.whl (128kB)
+     |████████████████████████████████| 133kB 3.2MB/s
+Requirement already satisfied: numpy>=1.15.0 in c:\programdata\anaconda3\lib\site-packages (from neuralcoref) (1.16.4)
+Requirement already satisfied: requests<3.0.0,>=2.13.0 in c:\programdata\anaconda3\lib\site-packages (from neuralcoref) (2.22.0)
+Requirement already satisfied: blis<0.3.0,>=0.2.2 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (0.2.4)
+Requirement already satisfied: jsonschema<3.0.0,>=2.6.0 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (2.6.0)
+Requirement already satisfied: wasabi<1.1.0,>=0.0.12 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (0.6.0)
+Requirement already satisfied: thinc<7.1.0,>=7.0.2 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (7.0.8)
+Requirement already satisfied: srsly<1.1.0,>=0.0.5 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (1.0.2)
+Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in c:\programdata\anaconda3\lib\site-packages (from spacy>=2.1.0->neuralcoref) (1.0.2)
+Requirement already satisfied: plac<1.0.0,>=0.9.6 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (0.9.6)
+Requirement already satisfied: cymem<2.1.0,>=2.0.2 in c:\programdata\anaconda3\lib\site-packages (from spacy>=2.1.0->neuralcoref) (2.0.3)
+Requirement already satisfied: preshed<2.1.0,>=2.0.1 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=2.1.0->neuralcoref) (2.0.1)
+Collecting botocore<1.17.0,>=1.16.1 (from boto3->neuralcoref)
+  Downloading https://files.pythonhosted.org/packages/46/b8/588f44ac91f280beabd0d5ce192a65f50e32e39ebb2a4193590ccb3afff2/botocore-1.16.1-py2.py3-none-any.whl (6.2MB)
+     |████████████████████████████████| 6.2MB 3.2MB/s
+Collecting s3transfer<0.4.0,>=0.3.0 (from boto3->neuralcoref)
+  Downloading https://files.pythonhosted.org/packages/69/79/e6afb3d8b0b4e96cefbdc690f741d7dd24547ff1f94240c997a26fa908d3/s3transfer-0.3.3-py2.py3-none-any.whl (69kB)
+     |████████████████████████████████| 71kB 2.3MB/s
+Collecting jmespath<1.0.0,>=0.7.1 (from boto3->neuralcoref)
+  Downloading https://files.pythonhosted.org/packages/a3/43/1e939e1fcd87b827fe192d0c9fc25b48c5b3368902bfb913de7754b0dc03/jmespath-0.9.5-py2.py3-none-any.whl
+Requirement already satisfied: certifi>=2017.4.17 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->neuralcoref) (2019.6.16)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->neuralcoref) (3.0.4)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->neuralcoref) (1.24.2)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->neuralcoref) (2.8)
+Requirement already satisfied: tqdm<5.0.0,>=4.10.0 in c:\programdata\anaconda3\lib\site-packages (from thinc<7.1.0,>=7.0.2->spacy>=2.1.0->neuralcoref) (4.45.0)
+Requirement already satisfied: docutils<0.16,>=0.10 in c:\programdata\anaconda3\lib\site-packages (from botocore<1.17.0,>=1.16.1->boto3->neuralcoref) (0.14)
+Requirement already satisfied: python-dateutil<3.0.0,>=2.1 in c:\programdata\anaconda3\lib\site-packages (from botocore<1.17.0,>=1.16.1->boto3->neuralcoref) (2.8.0)
+Requirement already satisfied: six>=1.5 in c:\programdata\anaconda3\lib\site-packages (from python-dateutil<3.0.0,>=2.1->botocore<1.17.0,>=1.16.1->boto3->neuralcoref) (1.12.0)
+Installing collected packages: jmespath, botocore, s3transfer, boto3, neuralcoref
+Successfully installed boto3-1.13.1 botocore-1.16.1 jmespath-0.9.5 neuralcoref-4.0 s3transfer-0.3.3
+
+(base) C:\Users\shari>python -m spacy download en_coref_md
+
+✘ No compatible model found for 'en_coref_md' (spaCy v2.1.0).
+
+
+(base) C:\Users\shari>python -m spacy download en_core_web_md
+Collecting en_core_web_md==2.1.0 from https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.1.0/en_core_web_md-2.1.0.tar.gz#egg=en_core_web_md==2.1.0
+  Downloading https://github.com/explosion/spacy-models/releases/download/en_core_web_md-2.1.0/en_core_web_md-2.1.0.tar.gz (95.4MB)
+     |████████████████████████████████| 95.4MB 6.4MB/s
+Building wheels for collected packages: en-core-web-md
+  Building wheel for en-core-web-md (setup.py) ... done
+  Stored in directory: C:\Users\shari\AppData\Local\Temp\pip-ephem-wheel-cache-rikho8gu\wheels\c1\2c\5f\fd7f3ec336bf97b0809c86264d2831c5dfb00fc2e239d1bb01
+Successfully built en-core-web-md
+Installing collected packages: en-core-web-md
+Successfully installed en-core-web-md-2.1.0
+✔ Download and installation successful
+You can now load the model via spacy.load('en_core_web_md')
+
+(base) C:\Users\shari>python -m spacy download en_coref_md
+
+✘ No compatible model found for 'en_coref_md' (spaCy v2.1.0).
+
+
+(base) C:\Users\shari>python -m neuralcoref download en_coref_md
+100%|██████████████████████████████████████████████████████████████████| 40155833/40155833 [00:11<00:00, 3642615.14B/s]
+C:\ProgramData\Anaconda3\python.exe: No module named neuralcoref.__main__; 'neuralcoref' is a package and cannot be directly executed
+
+(base) C:\Users\shari>pip install en-coref-md
+Collecting en-coref-md
+  ERROR: Could not find a version that satisfies the requirement en-coref-md (from versions: none)
+ERROR: No matching distribution found for en-coref-md
+
+(base) C:\Users\shari>pip install en_coref_md
+Collecting en_coref_md
+  ERROR: Could not find a version that satisfies the requirement en_coref_md (from versions: none)
+ERROR: No matching distribution found for en_coref_md
+
+(base) C:\Users\shari>pip install https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+Collecting https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+  Downloading https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz (161.3MB)
+     |████████████████████████████████| 161.3MB 114kB/s
+Requirement already satisfied: spacy>=>=2.0.0 in c:\users\shari\appdata\roaming\python\python37\site-packages (from en-coref-md==3.0.0) (2.1.0)
+Requirement already satisfied: blis<0.3.0,>=0.2.2 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (0.2.4)
+Requirement already satisfied: thinc<7.1.0,>=7.0.2 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (7.0.8)
+Requirement already satisfied: plac<1.0.0,>=0.9.6 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (0.9.6)
+Requirement already satisfied: jsonschema<3.0.0,>=2.6.0 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (2.6.0)
+Requirement already satisfied: requests<3.0.0,>=2.13.0 in c:\programdata\anaconda3\lib\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (2.22.0)
+Requirement already satisfied: cymem<2.1.0,>=2.0.2 in c:\programdata\anaconda3\lib\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (2.0.3)
+Requirement already satisfied: wasabi<1.1.0,>=0.0.12 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (0.6.0)
+Requirement already satisfied: numpy>=1.15.0 in c:\programdata\anaconda3\lib\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (1.16.4)
+Requirement already satisfied: preshed<2.1.0,>=2.0.1 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (2.0.1)
+Requirement already satisfied: murmurhash<1.1.0,>=0.28.0 in c:\programdata\anaconda3\lib\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (1.0.2)
+Requirement already satisfied: srsly<1.1.0,>=0.0.5 in c:\users\shari\appdata\roaming\python\python37\site-packages (from spacy>=>=2.0.0->en-coref-md==3.0.0) (1.0.2)
+Requirement already satisfied: tqdm<5.0.0,>=4.10.0 in c:\programdata\anaconda3\lib\site-packages (from thinc<7.1.0,>=7.0.2->spacy>=>=2.0.0->en-coref-md==3.0.0) (4.45.0)
+Requirement already satisfied: idna<2.9,>=2.5 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy>=>=2.0.0->en-coref-md==3.0.0) (2.8)
+Requirement already satisfied: certifi>=2017.4.17 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy>=>=2.0.0->en-coref-md==3.0.0) (2019.6.16)
+Requirement already satisfied: urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy>=>=2.0.0->en-coref-md==3.0.0) (1.24.2)
+Requirement already satisfied: chardet<3.1.0,>=3.0.2 in c:\programdata\anaconda3\lib\site-packages (from requests<3.0.0,>=2.13.0->spacy>=>=2.0.0->en-coref-md==3.0.0) (3.0.4)
+Building wheels for collected packages: en-coref-md
+  Building wheel for en-coref-md (setup.py) ... error
+  ERROR: Complete output from command 'C:\ProgramData\Anaconda3\python.exe' -u -c 'import setuptools, tokenize;__file__='"'"'C:\\Users\\shari\\AppData\\Local\\Temp\\pip-req-build-usd2r1ht\\setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' bdist_wheel -d 'C:\Users\shari\AppData\Local\Temp\pip-wheel-hn0wpl1i' --python-tag cp37:
+  ERROR: running bdist_wheel
+  running build
+  running build_py
+  creating build
+  creating build\lib.win-amd64-3.7
+  creating build\lib.win-amd64-3.7\en_coref_md
+  copying en_coref_md\__init__.py -> build\lib.win-amd64-3.7\en_coref_md
+  creating build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+  copying en_coref_md\neuralcoref\__init__.py -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+  copying en_coref_md\__init__.pxd -> build\lib.win-amd64-3.7\en_coref_md
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+  copying en_coref_md\en_coref_md-3.0.0\meta.json -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+  copying en_coref_md\en_coref_md-3.0.0\tokenizer -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  copying en_coref_md\en_coref_md-3.0.0\ner\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  copying en_coref_md\en_coref_md-3.0.0\ner\lower_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  copying en_coref_md\en_coref_md-3.0.0\ner\moves -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  copying en_coref_md\en_coref_md-3.0.0\ner\tok2vec_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  copying en_coref_md\en_coref_md-3.0.0\ner\upper_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\pairs_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\single_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+  copying en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  copying en_coref_md\en_coref_md-3.0.0\parser\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  copying en_coref_md\en_coref_md-3.0.0\parser\lower_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  copying en_coref_md\en_coref_md-3.0.0\parser\moves -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  copying en_coref_md\en_coref_md-3.0.0\parser\tok2vec_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  copying en_coref_md\en_coref_md-3.0.0\parser\upper_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+  copying en_coref_md\en_coref_md-3.0.0\tagger\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+  copying en_coref_md\en_coref_md-3.0.0\tagger\model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+  copying en_coref_md\en_coref_md-3.0.0\tagger\tag_map -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+  creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+  copying en_coref_md\en_coref_md-3.0.0\vocab\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+  copying en_coref_md\en_coref_md-3.0.0\vocab\lexemes.bin -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+  copying en_coref_md\en_coref_md-3.0.0\vocab\strings.json -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+  copying en_coref_md\en_coref_md-3.0.0\vocab\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+  copying en_coref_md\meta.json -> build\lib.win-amd64-3.7\en_coref_md
+  copying en_coref_md\neuralcoref\neuralcoref.pyx -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+  copying en_coref_md\neuralcoref\neuralcoref.pxd -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+  copying en_coref_md\neuralcoref\__init__.pxd -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+  running build_ext
+  building 'en_coref_md.neuralcoref.neuralcoref' extension
+  error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": https://visualstudio.microsoft.com/downloads/
+  ----------------------------------------
+  ERROR: Failed building wheel for en-coref-md
+  Running setup.py clean for en-coref-md
+Failed to build en-coref-md
+Installing collected packages: en-coref-md
+  Running setup.py install for en-coref-md ... error
+    ERROR: Complete output from command 'C:\ProgramData\Anaconda3\python.exe' -u -c 'import setuptools, tokenize;__file__='"'"'C:\\Users\\shari\\AppData\\Local\\Temp\\pip-req-build-usd2r1ht\\setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' install --record 'C:\Users\shari\AppData\Local\Temp\pip-record-vrzw5a9j\install-record.txt' --single-version-externally-managed --compile:
+    ERROR: running install
+    running build
+    running build_py
+    creating build
+    creating build\lib.win-amd64-3.7
+    creating build\lib.win-amd64-3.7\en_coref_md
+    copying en_coref_md\__init__.py -> build\lib.win-amd64-3.7\en_coref_md
+    creating build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+    copying en_coref_md\neuralcoref\__init__.py -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+    copying en_coref_md\__init__.pxd -> build\lib.win-amd64-3.7\en_coref_md
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+    copying en_coref_md\en_coref_md-3.0.0\meta.json -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+    copying en_coref_md\en_coref_md-3.0.0\tokenizer -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    copying en_coref_md\en_coref_md-3.0.0\ner\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    copying en_coref_md\en_coref_md-3.0.0\ner\lower_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    copying en_coref_md\en_coref_md-3.0.0\ner\moves -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    copying en_coref_md\en_coref_md-3.0.0\ner\tok2vec_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    copying en_coref_md\en_coref_md-3.0.0\ner\upper_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\ner
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\pairs_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\single_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\static_vectors
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+    copying en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\neuralcoref\tuned_vectors
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    copying en_coref_md\en_coref_md-3.0.0\parser\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    copying en_coref_md\en_coref_md-3.0.0\parser\lower_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    copying en_coref_md\en_coref_md-3.0.0\parser\moves -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    copying en_coref_md\en_coref_md-3.0.0\parser\tok2vec_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    copying en_coref_md\en_coref_md-3.0.0\parser\upper_model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\parser
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+    copying en_coref_md\en_coref_md-3.0.0\tagger\cfg -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+    copying en_coref_md\en_coref_md-3.0.0\tagger\model -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+    copying en_coref_md\en_coref_md-3.0.0\tagger\tag_map -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\tagger
+    creating build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+    copying en_coref_md\en_coref_md-3.0.0\vocab\key2row -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+    copying en_coref_md\en_coref_md-3.0.0\vocab\lexemes.bin -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+    copying en_coref_md\en_coref_md-3.0.0\vocab\strings.json -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+    copying en_coref_md\en_coref_md-3.0.0\vocab\vectors -> build\lib.win-amd64-3.7\en_coref_md\en_coref_md-3.0.0\vocab
+    copying en_coref_md\meta.json -> build\lib.win-amd64-3.7\en_coref_md
+    copying en_coref_md\neuralcoref\neuralcoref.pyx -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+    copying en_coref_md\neuralcoref\neuralcoref.pxd -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+    copying en_coref_md\neuralcoref\__init__.pxd -> build\lib.win-amd64-3.7\en_coref_md\neuralcoref
+    running build_ext
+    building 'en_coref_md.neuralcoref.neuralcoref' extension
+    error: Microsoft Visual C++ 14.0 is required. Get it with "Microsoft Visual C++ Build Tools": https://visualstudio.microsoft.com/downloads/
+    ----------------------------------------
+ERROR: Command "'C:\ProgramData\Anaconda3\python.exe' -u -c 'import setuptools, tokenize;__file__='"'"'C:\\Users\\shari\\AppData\\Local\\Temp\\pip-req-build-usd2r1ht\\setup.py'"'"';f=getattr(tokenize, '"'"'open'"'"', open)(__file__);code=f.read().replace('"'"'\r\n'"'"', '"'"'\n'"'"');f.close();exec(compile(code, __file__, '"'"'exec'"'"'))' install --record 'C:\Users\shari\AppData\Local\Temp\pip-record-vrzw5a9j\install-record.txt' --single-version-externally-managed --compile" failed with error code 1 in C:\Users\shari\AppData\Local\Temp\pip-req-build-usd2r1ht\
+
+(base) C:\Users\shari>

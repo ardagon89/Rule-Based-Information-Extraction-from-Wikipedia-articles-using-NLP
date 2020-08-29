@@ -1,0 +1,58 @@
+{
+    "document": "3.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "John Fitzgerald Kennedy was born on May 29, 1917, as the child of Joseph and Rose Kennedy, in a one-room log cabin on Sinking Spring Farm near Brookline, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Brookline",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "John Fitzgerald Kennedy was born on May 29, 1917, as the child of Joseph and Rose Kennedy, in a one-room log cabin on Sinking Spring Farm near Brookline, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Joseph",
+                "2": "John Fitzgerald Kennedy",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "John Fitzgerald Kennedy was a descendant of Samuel Lincoln, an Englishman who migrated from Hingham, Norfolk, to its namesake Hingham, Massachusetts, in 1638."
+            ],
+            "arguments": {
+                "1": "Hingham",
+                "2": "Norfolk"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "John Fitzgerald Kennedy was a descendant of Samuel Lincoln, an Englishman who migrated from Hingham, Norfolk, to its namesake Hingham, Massachusetts, in 1638."
+            ],
+            "arguments": {
+                "1": "Hingham",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On November 22, 1963, Samuel's grandson and great-grandson was assassinated in Dallas, Texas."
+            ],
+            "arguments": {
+                "1": "Dallas",
+                "2": "Texas"
+            }
+        }
+    ]
+}

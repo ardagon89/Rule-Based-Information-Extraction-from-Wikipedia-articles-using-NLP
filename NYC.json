@@ -1,0 +1,315 @@
+{
+    "document": "NYC.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The City of New York, usually called either New York City (NYC) or simply New York (NY), is the most populous city in the United States and in the U.S. state of New York."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "With an estimated 2017 population of 8,622,698 distributed over a land area of about 302.6 square miles (784 km2), New York is also the most densely populated major city in the United States."
+            ],
+            "arguments": {
+                "1": "New York",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Henry Hudson sailed roughly 150 miles (240 km) north, past the site of the present-day New York State capital city of Albany, in the belief that Henry Hudson might be an oceanic tributary before the Hudson River became too shallow to continue."
+            ],
+            "arguments": {
+                "1": "Albany",
+                "2": "New York State"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York also became a center of slavery, with 42 of households holding slaves by 1730, the highest percentage outside Charleston, South Carolina."
+            ],
+            "arguments": {
+                "1": "Charleston",
+                "2": "South Carolina"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Hudson River separates New York City from the U.S. state of New Jersey."
+            ],
+            "arguments": {
+                "1": "New Jersey",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km ) in 2015 makes Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km ) in 2015 the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "New York County's",
+                "2": "Manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km ) in 2015 makes Manhattan's (New York County's) population density of 72,033 people per square mile (27,812/km ) in 2015 the highest of any county in the United States and higher than the density of any individual American city."
+            ],
+            "arguments": {
+                "1": "New York County's",
+                "2": "Manhattan"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several small islands also compose part of the borough of Manhattan (New York County), including Randall's Island, Wards Island, and Roosevelt Island in the Hudson River, and Governors Island and Liberty Island to the south in New York Harbor."
+            ],
+            "arguments": {
+                "1": "Island",
+                "2": "Randall"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "(The third is Newark Liberty International Airport in Newark, New Jersey.)"
+            ],
+            "arguments": {
+                "1": "Newark",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "It is the location of Yankee Stadium, the baseball park of the New York Yankees, and home to the largest cooperatively owned housing complex in the mainland United States, Co-op City."
+            ],
+            "arguments": {
+                "1": "United States",
+                "2": "Co-op City"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City is the most populous city in the United States, with an estimated record high of 8,622,698 residents as of 2017, incorporating more immigration into New York City than outmigration since the 2010 United States Census."
+            ],
+            "arguments": {
+                "1": "New York City",
+                "2": "the United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The metropolitan area is also home to 20 of the USA's Indian Americans and at least 20 Little India enclaves, and 15 of all Korean Americans and four Koreatowns; the largest Asian Indian population in the Western Hemisphere; the largest Russian American, Italian American, and African American populations; the largest Dominican American, Puerto Rican American, and South American and second-largest overall Hispanic population in the United States, numbering 4.8 million; and includes multiple established Chinatowns within New York City alone."
+            ],
+            "arguments": {
+                "1": "Indian Americans",
+                "2": "USA"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2015, Silicon Alley generated over US 7.3 billion in venture capital investment across a broad spectrum of high technology enterprises, most based in Manhattan, with others in Brooklyn, Queens, and elsewhere in the region."
+            ],
+            "arguments": {
+                "1": "Brooklyn",
+                "2": "Queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "By 2002, New York City crime rate was similar to that of Provo, Utah, and was ranked 197th in crime among the 216 U.S. cities with populations greater than 100,000."
+            ],
+            "arguments": {
+                "1": "Provo",
+                "2": "Utah"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "New York City has been described as the cultural capital of the World by the diplomatic consulates of Iceland and Latvia and by New York's Baruch College."
+            ],
+            "arguments": {
+                "1": "Baruch College",
+                "2": "New York's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Forty-one venues in Midtown Manhattan's Theatre District, each with at least 500 seats, are classified as Broadway theatres."
+            ],
+            "arguments": {
+                "1": "Theatre District",
+                "2": "Midtown Manhattan's"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The city is represented in the National Football League by the New York Giants and the New York Jets, although both teams play both teams home games at MetLife Stadium in nearby East Rutherford, New Jersey, which hosted Super Bowl XLVIII in 2014."
+            ],
+            "arguments": {
+                "1": "East Rutherford",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The New Jersey Devils play at Barclays Center in Brooklyn in nearby Newark, New Jersey and traditionally represent the counties of neighboring New Jersey which are coextensive with the boundaries of the New York metropolitan area and media market."
+            ],
+            "arguments": {
+                "1": "Newark",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In soccer, New York City is represented by New York City FC of Major League Soccer, who play their home games at Yankee Stadium and the New York Red Bulls, who play their home games at Red Bull Arena in nearby Harrison, New Jersey."
+            ],
+            "arguments": {
+                "1": "Harrison",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "A new version of the New York Cosmos was formed in 2010, and began play in the second division North American Soccer League in 2013."
+            ],
+            "arguments": {
+                "1": "Hempstead",
+                "2": "New York City"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments and is held at the National Tennis Center in Flushing Meadows-Corona Park, Queens."
+            ],
+            "arguments": {
+                "1": "Corona Park",
+                "2": "Queens"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Millrose Games are played in Riverdale, Bronx at Gaelic Park, home to the New York GAA, the only North American team to compete at the senior inter-county level."
+            ],
+            "arguments": {
+                "1": "Riverdale",
+                "2": "Bronx"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "Boston",
+                "2": "Philadelphia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "Boston",
+                "2": "and Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "Boston",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "Philadelphia",
+                "2": "and Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "Philadelphia",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "For intercity rail, New York City is served by Amtrak, whose busiest station by a significant margin is Pennsylvania Station on the West Side of Manhattan, from which Amtrak provides connections to Boston, Philadelphia, and Washington, D.C. along the Northeast Corridor, and long-distance train service to other North American cities."
+            ],
+            "arguments": {
+                "1": "and Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Plans have advanced to expand passenger volume at a fourth airport, Stewart International Airport near Newburgh, New York, by the Port Authority of New York and New Jersey."
+            ],
+            "arguments": {
+                "1": "Newburgh",
+                "2": "New York"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The George Washington Bridge is the world's busiest motor vehicle bridge, connecting Manhattan to Bergen County, New Jersey."
+            ],
+            "arguments": {
+                "1": "Bergen County",
+                "2": "New Jersey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Holland Tunnel, connecting Lower Manhattan to Jersey City, New Jersey, was the worldwhen the busiest vehicular tunnel in the world opened in 1927."
+            ],
+            "arguments": {
+                "1": "Jersey City",
+                "2": "New Jersey"
+            }
+        }
+    ]
+}

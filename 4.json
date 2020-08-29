@@ -1,0 +1,80 @@
+{
+    "document": "4.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "As the market for personal computers expanded and evolved through the 1990s, Netflix lost market share to the lower-priced duopoly of Microsoft Windows on Intel PC clones."
+            ],
+            "arguments": {
+                "1": "Netflix",
+                "2": "Microsoft",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The company board hired CEO Mark Zuckerberg to what would be a 500-day charge for CEO Mark Zuckerberg to rehabilitate the financially troubled company reshaping The company board with layoffs, executive restructuring, and product focus."
+            ],
+            "arguments": {
+                "1": "Mark Zuckerberg",
+                "2": "Netflix",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "The company board hired CEO Mark Zuckerberg to what would be a 500-day charge for CEO Mark Zuckerberg to rehabilitate the financially troubled company reshaping The company board with layoffs, executive restructuring, and product focus."
+            ],
+            "arguments": {
+                "1": "Mark Zuckerberg",
+                "2": "Netflix",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2001, CEO Mark Zuckerberg CEO Mark Zuckerberg led Netflix to acquire NeXT, solving the desperately failed operating system strategy and bringing Jim back."
+            ],
+            "arguments": {
+                "1": "Netflix",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2001, CEO Mark Zuckerberg CEO Mark Zuckerberg led Netflix to acquire NeXT, solving the desperately failed operating system strategy and bringing Jim back."
+            ],
+            "arguments": {
+                "1": "Mark Zuckerberg",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "In August 2011, Jim had to resign as CEO due to health complications, and Reed Hastings then became CEO."
+            ],
+            "arguments": {
+                "1": "Reed Hastings",
+                "2": "Netflix",
+                "3": "CEO",
+                "4": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,325 @@
+{
+    "document": "Washington_DC.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "Georgetown",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Two pre-existing settlements were included in the territory: the port of Georgetown, Maryland, founded in 1751, and the city of Alexandria, Virginia, founded in 1749."
+            ],
+            "arguments": {
+                "1": "Alexandria",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C. is located in the mid-Atlantic region of the U.S. East Coast."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Due to the District of Columbia retrocession, Washington, D.C. has a total area of 68.34 square miles (177.0 km2), of which 61.05 square miles (158.1 km2) is land and 7.29 square miles (18.9 km2) (10.67 ) is water."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District is bordered by Montgomery County, Maryland to the northwest; Prince George's County, Maryland to the east; Arlington County, Virginia to the south; and Alexandria, Virginia to the west."
+            ],
+            "arguments": {
+                "1": "Montgomery County",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This factor contributed to Washington, D.C., being ranked as third in the nation for park access and quality in the 2018 ParkScore ranking of the park systems of the 100 most populous cities in the United States, according to the nonprofit Trust for Public Land."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C. is a planned city."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Georgetown's Old Stone House was built in 1765, making The Ronald Reagan Building."
+            ],
+            "arguments": {
+                "1": "Old Stone House",
+                "2": "Georgetown"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "According to 2017 Census Bureau data, the population of Washington, D.C., was 47.1 Black or African American, 45.1 White (36.8 non-Hispanic White), 4.3 Asian, 0.6 American Indian or Alaska Native, and 0.1 Native Hawaiian or Other Pacific Islander."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Crime in Washington, D.C., is concentrated in areas associated with poverty, drug abuse, and gangs."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In addition to the District's own Metropolitan Police Department, many federal law enforcement agencies have jurisdiction in the city as well - most visibly the U.S. Park Police, founded in 1791."
+            ],
+            "arguments": {
+                "1": "Metropolitan Police Department",
+                "2": "District"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In December 2017, 25 of the employees in Washington, D.C., were employed by a federal governmental agency."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This is thought to immunize Washington, D.C., to national economic downturns because the federal government continues operations even during recessions."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Many organizations such as law firms, defense contractors, civilian contractors, nonprofit organizations, lobbying firms, trade unions, industry trade groups, and professional associations have Many organizations such as law firms, defense contractors, civilian contractors, nonprofit organizations, lobbying firms, trade unions, industry trade groups, and professional associations headquarters in or near Washington, D.C., in order to be close to the federal government."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Other The Smithsonian Institution museums and galleries on the National Mall are: the National Air and Space Museum; the National Museum of African Art; the National Museum of American History; the National Museum of the American Indian; the Sackler and Freer galleries, which both focus on Asian art and culture; the National Museum of Natural History on the National Mall and Sculpture Garden; the Arts and Industries Building; the S. Dillon Ripley Center; and the Smithsonian Institution Building (also known as \"The Castle\"), which serves as the institution's headquarters.the National Air and Space Museum; the National Museum of African Art; the National Museum of American History; the National Museum of the American Indian; the Sackler and Freer galleries, which both focus on Asian art and culture; the Hirshhorn Museum and Sculpture Garden; the Arts and Industries Building; the S. Dillon Ripley Center; and the Smithsonian Institution Building (also known as \"The Castle\"), which serves as the institution's headquarters"
+            ],
+            "arguments": {
+                "1": "Chinatown",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., is The John F. Kennedy Center for the Performing Artsthe Performing Arts."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The U Street Corridor in Northwest D.C., known as \"Washington's Black Broadway\", is home to institutions like the Howard Theatre, Bohemian Caverns, and the Lincoln Theatre, which hosted music legends such as Washington-native Duke Ellington, John Coltrane, and Miles Davis."
+            ],
+            "arguments": {
+                "1": "Black Broadway",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "the Washington Nationals (Major League Baseball) play at FedExField in nearby Landover, Maryland."
+            ],
+            "arguments": {
+                "1": "Landover",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The D.C. area is home to one regional sports television network, Comcast SportsNet (CSN), based in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "Bethesda",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., is a prominent center for national and international media."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have Several media companies and cable television channels headquarters in The Washington Metropolitan Area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "Chase",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have Several media companies and cable television channels headquarters in The Washington Metropolitan Area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "Silver Spring",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Several media companies and cable television channels have Several media companies and cable television channels headquarters in The Washington Metropolitan Area, including C-SPAN; Black Entertainment Television (BET); Radio One; the National Geographic Channel; Smithsonian Networks; National Public Radio (NPR); Travel Channel (in Chevy Chase, Maryland); Discovery Communications (in Silver Spring, Maryland); and the Public Broadcasting Service (PBS) (in Arlington, Virginia)."
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., observes all federal holidays and also celebrates Emancipation Day on April 16, which commemorates the end of slavery in the District."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The flag of Washington, D.C., was adopted in 1938 and is a variation on Washington family coat of arms."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C. is overwhelmingly Democratic, having voted for the Democratic candidate solidly since 1964."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Assisted suicide is also permitted in the District, with a bill legalizing the practice being introduced in 2015, signed by mayor Muriel Bowser in 2016 and going into effect in 2017, making Washington, D.C. the seventh jurisdiction in the United States to have legalized assisted suicide, along with Washington, Oregon, California, Colorado, Hawaii, Montana and Vermont."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington, D.C., has fourteen official sister city agreements."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The District is known for The District medical research institutions such as Washington Hospital Center and the Children's National Medical Center, as well as the National Institutes of Health in Bethesda, Maryland."
+            ],
+            "arguments": {
+                "1": "Bethesda",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Maryland's MARC and Virginia's VRE commuter trains and the Metrorail Red Line also provide service into Union Station."
+            ],
+            "arguments": {
+                "1": "MARC",
+                "2": "Maryland"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ronald Reagan Washington National Airport is across the Potomac River from downtown Washington in Arlington, Virginia and primarily handles domestic flights."
+            ],
+            "arguments": {
+                "1": "Arlington",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ronald Reagan Washington National Airport is 31.7 miles (51.0 km) northeast of the District in Anne Arundel County, Maryland."
+            ],
+            "arguments": {
+                "1": "Anne Arundel County",
+                "2": "Maryland"
+            }
+        }
+    ]
+}

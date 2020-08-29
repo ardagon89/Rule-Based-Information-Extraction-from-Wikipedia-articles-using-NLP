@@ -1,0 +1,66 @@
+{
+    "document": "1.txt",
+    "extraction": [
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US 13.4 billion."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 2017, Amazon acquired Whole Foods Market for US 13.4 billion."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "13.4 billion",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "Jeff Bezos is the CEO of Amazon."
+            ],
+            "arguments": {
+                "1": "Jeff Bezos",
+                "2": "Amazon",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994."
+            ],
+            "arguments": {
+                "1": "Bellevue",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "Amazon was founded by Jeff Bezos in Bellevue, Washington, in July 1994."
+            ],
+            "arguments": {
+                "1": "Jeff Bezos",
+                "2": "Amazon",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}

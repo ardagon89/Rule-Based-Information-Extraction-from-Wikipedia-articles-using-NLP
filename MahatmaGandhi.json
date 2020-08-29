@@ -1,0 +1,85 @@
+{
+    "document": "MahatmaGandhi.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Born and raised in a Hindu merchant caste family in coastal Gujarat, India, and trained in law at the Inner Temple, London, Gandhi first employed nonviolent civil disobedience as an expatriate lawyer in South Africa, in the resident Indian community's struggle for civil rights."
+            ],
+            "arguments": {
+                "1": "Gujarat",
+                "2": "India"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Turkey's Ataturk had ended the Caliphate, the Khilafat movement ended, and Muslim support for Gandhi largely evaporated."
+            ],
+            "arguments": {
+                "1": "Ataturk",
+                "2": "Turkey"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Gandhi led Congress celebrated 26 January 1930 as India's Independence Day in Lahore."
+            ],
+            "arguments": {
+                "1": "Independence Day",
+                "2": "India"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "India's Independence Day in Lahore was commemorated by almost every other Indian organisation."
+            ],
+            "arguments": {
+                "1": "Independence Day",
+                "2": "India"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "This was highlighted by the famous Salt March to Dandi from 12 March to 6 April, where, together with 78 volunteers, he marched 388 kilometres (241 mi) from Ahmedabad to Dandi, Gujarat to make salt himself, with the declared intention of breaking the salt laws."
+            ],
+            "arguments": {
+                "1": "Dandi",
+                "2": "Gujarat"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "his collaborators were tried in court at Delhi's Red Fort."
+            ],
+            "arguments": {
+                "1": "Red Fort",
+                "2": "Delhi"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Ruskin inspired Ruskin decision to live an austere life on a commune, at first on the Phoenix Farm in Natal and then on the Tolstoy Farm just outside Johannesburg, South Africa."
+            ],
+            "arguments": {
+                "1": "Johannesburg",
+                "2": "South Africa"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Time Magazine named The 14th Dalai Lama, Lech Wa sa, Martin Luther King, Cesar Chavez, Aung San Suu Kyi, Benigno Aquino, Jr., Desmond Tutu, and Nelson Mandela as Children of Gandhi and Gandhi spiritual heirs to nonviolence."
+            ],
+            "arguments": {
+                "1": "Houston",
+                "2": "Texas"
+            }
+        }
+    ]
+}

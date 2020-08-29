@@ -1,0 +1,5 @@
+1) For WORK template do we have to extract instances only when they contain Person and Organization or should we also extract from sentences like 
+"In Kentucky and Indiana, Thomas worked as a farmer, cabinetmaker, and carpenter."
+"He owned farms, town lots and livestock, paid taxes, sat on juries, appraised estates, served on country slave patrols, and guarded prisoners."
+
+2) Does BUY template only extract instances when an Organization is bought or can it include purchase of all items like farms, book, apple, etc.

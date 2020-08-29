@@ -1,0 +1,25 @@
+{
+    "document": "India.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "India (ISO: Bh rat), also known as the Republic of India (ISO: Bh rat Ga ar jya), is a country in South Asia."
+            ],
+            "arguments": {
+                "1": "India",
+                "2": "South Asia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Eight dance forms, many with narrative forms and mythological elements, have been accorded classical dance status by India's National Academy of Music, Dance, and Drama."
+            ],
+            "arguments": {
+                "1": "National Academy of Music",
+                "2": "India"
+            }
+        }
+    ]
+}

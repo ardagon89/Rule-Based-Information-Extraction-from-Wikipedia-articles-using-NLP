@@ -1,0 +1,95 @@
+{
+    "document": "UnitedStates.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "The first known publication of the phrase \"United States of America\" was in an anonymous essay in The Virginia Gazette newspaper in Williamsburg, Virginia, on April 6, 1776."
+            ],
+            "arguments": {
+                "1": "Williamsburg",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The continent's first elected legislative assembly, Virginia's House of Burgesses created in 1619, the Mayflower Compact, signed by the Pilgrims' before disembarking, and the Fundamental Orders of Connecticut, established precedents for the pattern of representative self-government and constitutionalism that would develop throughout the American colonies."
+            ],
+            "arguments": {
+                "1": "House",
+                "2": "Virginia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 1774, the Spanish Navy ship Santiago, under Juan P rez, entered and anchored in an inlet of Nootka Sound, Vancouver Island, in present-day British Columbia."
+            ],
+            "arguments": {
+                "1": "Nootka Sound",
+                "2": "Vancouver Island"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "On September 11, 2001, Al-Qaeda terrorists struck the World Trade Center in New York City and the Pentagon near Washington, D.C., killing nearly 3,000 people."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "At an elevation of 20,310 feet (6,190.5 m), Alaska's Denali (Mount McKinley) is the highest peak in the country and North America."
+            ],
+            "arguments": {
+                "1": "Denali (Mount McKinley",
+                "2": "Alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Active volcanoes are common throughout Alaska's Alexander and Aleutian Islands, and Hawaii consists of volcanic islands."
+            ],
+            "arguments": {
+                "1": "Alexander",
+                "2": "Alaska"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Almost all countries have embassies in Washington, D.C., and many have consulates around The United States."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Hollywood, a northern district of Los Angeles, California, is one of the leaders in motion picture production."
+            ],
+            "arguments": {
+                "1": "Los Angeles",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Major cities often have \"alternative weeklies\" to complement the mainstream daily papers, for example, New York City's The Village Voice or Los Angeles' LA Weekly, to name two of the best-known."
+            ],
+            "arguments": {
+                "1": "The Village Voice",
+                "2": "New York City's"
+            }
+        }
+    ]
+}

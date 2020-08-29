@@ -1,0 +1,255 @@
+{
+    "document": "Washington_State.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is sometimes referred to as Washington State to distinguish Washington from Washington, D.C., the capital of the United States."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "Oregon",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "Oregon",
+                "2": "Colorado and Vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "Oregon",
+                "2": "as well as the District of Columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "Colorado and Vermont"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "as well as the District of Columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Similarly, Washington voters approved a 2008 referendum on legalization of physician-assisted suicide, and is currently only one of five states, along with Oregon, California, Colorado and Vermont, as well as the District of Columbia to have legalized the practice."
+            ],
+            "arguments": {
+                "1": "Colorado and Vermont",
+                "2": "as well as the District of Columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Residents of Washington (known as \"Washingtonians\") and the Pacific Northwest simply refer to the current state of Washington as \"Washington,\" and the nation's capital \"Washington, D.C.,\" \"the other Washington,\" or simply \"D.C.\""
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "D.C."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington is the northwestern-most state of the contiguous United States."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "United States"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The Palouse southeast region of Washington was grassland that has been mostly converted into farmland, and extends to Selkirk Mountains."
+            ],
+            "arguments": {
+                "1": "Washington",
+                "2": "Palouse"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2006, the Climate Impacts Group at the University of Washington published The Impacts of Climate change in Washington's Economy, a preliminary assessment on the risks and opportunities presented given the possibility of a rise in global temperatures and the risks and opportunities effects on Washington state."
+            ],
+            "arguments": {
+                "1": "Economy",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The party crossed the Rockies into the Columbia Valley, near present-day Radium Hot Springs, British Columbia, then traveled south-west down the Kootenai River and Columbia River."
+            ],
+            "arguments": {
+                "1": "Hot Springs",
+                "2": "British Columbia"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has the largest Pacific Northwest population, followed by Oregon, then Idaho."
+            ],
+            "arguments": {
+                "1": "Oregon",
+                "2": "then Idaho"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Long Beach",
+                "2": "California"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Long Beach",
+                "2": "and Lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "Long Beach",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "and Lowell"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "California",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Tacoma is home to thousands of Cambodians, and has one of the largest Cambodian-American communities in the United States, along with Long Beach, California, and Lowell, Massachusetts."
+            ],
+            "arguments": {
+                "1": "and Lowell",
+                "2": "Massachusetts"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Washington has the second highest percentage of Pacific Islander people in the mainland U.S. (behind Utah); the Seattle metropolitan area is home to over 15,000 people of Samoan ancestry, who mainly reside in southeast Seattle, Tacoma, Federal Way, and in SeaTac."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Tacoma"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Seattle's King Street Station, the busiest station in Washington, and 15th busiest in the US, serves as the terminus for the two long distance Amtrak routes in Washington, the Empire Builder, to Chicago, and the Coast Starlight, to Los Angeles."
+            ],
+            "arguments": {
+                "1": "King Street Station",
+                "2": "Seattle"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Though the recently approved House Bill 2322 would be effective statewide in 2010, the recently approved House Bill 2322 would take place in Whatcom County, Spokane County, and Clark County in 2008."
+            ],
+            "arguments": {
+                "1": "Whatcom County",
+                "2": "Spokane County"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "Tacoma",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "There are also four Science and Math based high schools: one in the Tri-Cities, Washington, known as Delta, one in Tacoma, Washington, known as SAMI, another in Seattle known as Raisbeck Aviation High School, and one in Redmond, Washington known as Tesla STEM High School."
+            ],
+            "arguments": {
+                "1": "Redmond",
+                "2": "Washington"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "The state's nickname, \"The Evergreen State\", was proposed in 1890 by Charles T. Conover of Seattle, Washington."
+            ],
+            "arguments": {
+                "1": "Seattle",
+                "2": "Washington"
+            }
+        }
+    ]
+}

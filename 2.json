@@ -1,0 +1,67 @@
+{
+    "document": "2.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "\", \"Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "Apple Inc.",
+                "3": "chairman; chief executive officer ( CEO ); co-founder",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "\", \"Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "Pixar",
+                "3": "chairman",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "\", \"Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Steven Paul Jobs",
+                "2": "NeXT",
+                "3": "founder; chairman; CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "\", \"Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "Amazon",
+                "2": "Whole Foods Market",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "\", \"Steven Paul Jobs was the chairman, chief executive officer (CEO), and co-founder of Apple Inc.; chairman and majority shareholder of Pixar; a member of The Walt Disney Company's board of directors following The Walt Disney Company's board of directors acquisition of Pixar; and the founder, chairman, and CEO of NeXT."
+            ],
+            "arguments": {
+                "1": "The Walt Disney Company's",
+                "2": "NeXT",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}

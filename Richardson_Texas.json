@@ -1,0 +1,65 @@
+{
+    "document": "Richardson_Texas.txt",
+    "extraction": [
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Dallas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Richardson is a principal city in Dallas and Collin counties in the U.S. state of Texas."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "As of the 2015 American Community Survey, a principal city in Dallas and Collin counties in the U.S. state of Texas had a total population of 106,123."
+            ],
+            "arguments": {
+                "1": "Texas",
+                "2": "U.S."
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "In 2014 Richardson was named America's 17th Best City to Live in by 24/7"
+            ],
+            "arguments": {
+                "1": "City",
+                "2": "America"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "Located at 2101 Waterview Pkwy, in Richardson, Texas, this new campus allows easier access for those who live near Dallas and surrounding areas:"
+            ],
+            "arguments": {
+                "1": "Richardson",
+                "2": "Texas"
+            }
+        },
+        {
+            "template": "PART",
+            "sentences": [
+                "San Antonio, Texas: Historical Publishing Network, 2002."
+            ],
+            "arguments": {
+                "1": "San Antonio",
+                "2": "Texas"
+            }
+        }
+    ]
+}

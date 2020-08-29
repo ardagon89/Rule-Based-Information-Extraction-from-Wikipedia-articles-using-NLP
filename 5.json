@@ -1,0 +1,143 @@
+{
+    "document": "5.txt",
+    "extraction": [
+        {
+            "template": "WORK",
+            "sentences": [
+                "William Henry Gates III is an American business magnate, software developer, investor, and philanthropist."
+            ],
+            "arguments": {
+                "1": "William Henry Gates III",
+                "2": "William Henry Gates III",
+                "3": "magnate; developer; philanthropist",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "William Henry Gates III is best known as the co-founder of Microsoft Corporation."
+            ],
+            "arguments": {
+                "1": "Microsoft Corporation",
+                "2": "William Henry Gates III",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "William Henry Gates III stepping down as CEO in January 2000 allowing allowing Ballmer to become CEO."
+            ],
+            "arguments": {
+                "1": "Ballmer",
+                "2": "William Henry Gates III",
+                "3": "CEO",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "When Ballmer was in the eighth grade, Ballmer used the proceeds from Lakeside School's rummage sale to buy a telescope and a General Electric (GE) computer for the students."
+            ],
+            "arguments": {
+                "1": "Lakeside School's",
+                "2": "General Electric",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "At 11, William Henry Gates III purchased three shares of Cities Service Preferred for William Henry Gates III."
+            ],
+            "arguments": {
+                "1": "William Henry Gates III",
+                "2": "shares",
+                "3": "three shares",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "William Henry Gates III was a director of Blockbuster until January 2010 and the chairman of Imclone and Icahn Enterprises from 1954-1966; from 1956 to 1969 at William Henry Gates III Partnership, Ltd. as a general partner; and from 1970 as Chairman and    "
+            ],
+            "arguments": {
+                "1": "William Henry Gates III",
+                "2": "William Henry Gates III",
+                "3": "chairman; general",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "William Henry Gates III was a director of Blockbuster until January 2010 and the chairman of Imclone and Icahn Enterprises from 1954-1966; from 1956 to 1969 at William Henry Gates III Partnership, Ltd. as a general partner; and from 1970 as Chairman and    "
+            ],
+            "arguments": {
+                "1": "William Henry Gates III",
+                "2": "William Henry Gates III",
+                "3": "; ; ",
+                "4": ""
+            }
+        },
+        {
+            "template": "WORK",
+            "sentences": [
+                "William Henry Gates III was a director of Blockbuster until January 2010 and the chairman of Imclone and Icahn Enterprises from 1954-1966; from 1956 to 1969 at William Henry Gates III Partnership, Ltd. as a general partner; and from 1970 as Chairman and    "
+            ],
+            "arguments": {
+                "1": "William Henry Gates III",
+                "2": "William Henry Gates III",
+                "3": "; ; ",
+                "4": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1973, Microsoft began to acquire stock in the New York Times."
+            ],
+            "arguments": {
+                "1": "Microsoft",
+                "2": "the New York Times",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1974, the SEC opened a formal investigation into William Henry Gates III and Microsoft's purchase of Alamo Financial, due to possible conflict of interest."
+            ],
+            "arguments": {
+                "1": "Microsoft",
+                "2": "Alamo Financial",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        },
+        {
+            "template": "BUY",
+            "sentences": [
+                "In 1977, Microsoft indirectly acquired the New York Evening News for an amount of 50.2 million."
+            ],
+            "arguments": {
+                "1": "Microsoft",
+                "2": "the New York Evening News",
+                "3": "",
+                "4": "",
+                "5": ""
+            }
+        }
+    ]
+}
